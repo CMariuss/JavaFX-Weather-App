@@ -1,1 +1,1 @@
-# Java-Weather-App
+# JavaFX-Weather-App
